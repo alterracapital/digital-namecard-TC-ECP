@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Carson;Trent;;;
 FN: Trent  Carson 
-ORG:Alterra Capital Partners;
+ORG:Emerging Capital Partners;
 TITLE:Analyst
-EMAIL;type=INTERNET;type=WORK;type=pref:tcarson@alterracapital.com
+EMAIL;type=INTERNET;type=WORK;type=pref:carsont@ecpinvestments.com
 TEL;type=WORK;type=VOICE:+254 711 341365
 item1.ADR;type=WORK;type=pref:;;9 West, 9th Floor\nRing Road, Parklands\nNairobi;;;;Kenya
 item1.X-ABADR:sg
-item2.URL;type=pref:alterracapital.com
+item2.URL;type=pref:ecpinvestments.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
